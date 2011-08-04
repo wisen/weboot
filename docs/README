@@ -1,0 +1,15 @@
+board:		|--some board info and some parameters pass to kernel
+
+common:		|-------------------------------
+		|--bus: probe driver and device
+		|--mmc: mmc subsystem
+		|--usb: usb subsystem
+		|--flash: flash subsystem
+		|--interrupt: interrupt subsystem
+		|--------------------------------
+
+drivers:	|--just some driver about diffrent platform
+
+platform:	|--diffrent platform
+
+tool:		|--some tool,like fastboot....
