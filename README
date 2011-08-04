@@ -1,0 +1,6 @@
+common:
+	|--bus: probe driver and device
+	|--mmc: mmc subsystem
+	|--usb: usb subsystem
+	|--flash: flash subsystem
+	|--interrupt: interrupt subsystem
